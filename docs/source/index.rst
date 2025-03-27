@@ -17,17 +17,5 @@ LEARNING SUMMARY CONTENT'S
 --------
 
 .. toctree::
-:maxdeph: 2
-
-
-xml_tutorials
-xml_ajax
-xml_dom
-xpath
-xslt
-xquery
-xmldtd
-xsd_schema
-xsd_data types
-web_services
+xml_ajax.rst
 
