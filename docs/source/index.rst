@@ -30,5 +30,3 @@ xsd_schema
 xsd_data types
 web_services
 
-   usage
-   api
