@@ -1,4 +1,4 @@
-Welcome to XML LEARNING SUMMARY CONTENT!
+Welcome to XML LEARNING SUMMARY!
 ===================================
 
 APURADO, RODIL, TORRES, LARA
