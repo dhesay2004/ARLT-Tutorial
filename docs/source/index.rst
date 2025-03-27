@@ -18,4 +18,4 @@ Contents
 
 .. toctree::
 
-  xml_ajax.rst
+  xml_tutorials.rst
