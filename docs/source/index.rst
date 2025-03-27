@@ -1,4 +1,4 @@
-Welcome to XML LEARNING SUMMARY!
+Welcome to XML LEARNING SUMMARY CONTENT!
 ===================================
 
 APURADO, RODIL, TORRES, LARA
@@ -17,6 +17,18 @@ Contents
 --------
 
 .. toctree::
+:maxdeph: 2
+
+xml_tutorials
+xml_ajax
+xml_dom
+xpath
+xslt
+xquery
+xmldtd
+xsd_schema
+xsd_data types
+web_services
 
    usage
    api
