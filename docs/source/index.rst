@@ -20,5 +20,4 @@ how to :ref:`installation` the project.
 --------
 TABLE OF CONTENTS
 
-
-  *xml_tutorials.rst
+#xml_tutorials.rst
