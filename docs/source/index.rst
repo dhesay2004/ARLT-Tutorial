@@ -1,7 +1,11 @@
 Welcome to XML LEARNING SUMMARY EXAMPLE
 ===================================
 
-APURADO,DAISY, RODIL, SHELLA MAY, TORRES, REYSAMIE, LARA, MIGUEL AGUSTINO
+APURADO,DAISY, 
+RODIL, SHELLA MAY, 
+TORRES, REYSAMIE, 
+LARA, MIGUEL AGUSTINO
+
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://www.w3schools.com/xml/default.asp>`_
 and offers a *simple* and *intuitive* API.
@@ -13,9 +17,8 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-   TABLE OF CONTENTS
 --------
+TABLE OF CONTENTS
 
-.. toctree::
 
-  xml_tutorials.rst
+  *xml_tutorials.rst
