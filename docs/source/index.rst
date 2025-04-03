@@ -19,4 +19,4 @@ Contents
 .. toctree::
 :maxdeph: 2
 
-docs/source/xml_Schema.rst
+xml_Schema.rst
