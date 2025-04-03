@@ -19,17 +19,4 @@ Contents
 .. toctree::
 :maxdeph: 2
 
-
-xml_tutorials
-xml_ajax
-xml_dom
-xpath
-xslt
-xquery
-xmldtd
-xsd_schema
-xsd_data types
-web_services
-
-   usage
-   api
+docs/source/xml_Schema.rst
